@@ -1,1 +1,1 @@
-My Readme file
+This repository deals with learning C

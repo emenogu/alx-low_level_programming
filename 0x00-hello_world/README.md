@@ -1,1 +1,1 @@
-This training introduces you to C programming
+C basics
