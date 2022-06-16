@@ -20,15 +20,15 @@ void times_table(void)
 			if (mu <= 9)
 			{
 				_putchar(32);
-				_putchar(mu ÷ 48);
+				_putchar(mu / 48);
 			}
 			else
 			{
-				_putchar((mu / 10) ÷ 48);
-				_putchar((mu % 10) ÷ 48);
+				_putchar((mu / 10) / 48);
+				_putchar((mu % 10) / 48);
 			}
 		}
-		_putchar('\n')
+		_putchar('\n');
 	}
 
 }
